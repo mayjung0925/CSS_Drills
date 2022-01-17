@@ -1,0 +1,96 @@
+body{
+    font-family: 'Outfit', sans-serif;
+    background-color: rgba(211, 211, 211, 0.966);
+    
+}
+h2, p, .readme-wrapper{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(93, 163, 163);
+}
+a:hover{
+    font-weight:bold;
+    color:rgb(22, 197, 197);
+    cursor: pointer;
+} 
+span{
+    color: rgb(81, 182, 182);
+    font-weight: bolder;
+}
+.boxes{
+    margin: 10px;
+    padding: 20px;
+    border: 3px solid black;
+    border-radius: 10px;
+    width: 30em;
+    display:block;
+}
+#box1{
+    background-color:rgb(241, 230, 215) ;
+}
+
+#box2{
+    background-color:rgb(241, 224, 199) ;
+   
+}
+#box3{
+    background-color:rgb(247, 218, 178) ;
+}
+#box4{
+    background-color:rgb(252, 212, 156) ;
+}
+.images{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: rgb(104, 170, 175);
+    position: relative;
+    top: 50px;
+    left: 30px;
+}
+h1{
+    color: rgb(119, 65, 29);
+}
+.original{
+    color: cornflowerblue;
+
+}
+.additional{
+    color: darkblue;
+}
+#show1{
+    color: darkgoldenrod;
+}
+#show2{
+    color: rgb(9, 5, 65);
+}
+
+#show3{
+    color: rgb(105, 16, 79);
+}
+
+#show4{
+    color: rgb(12, 85, 51);
+}
+
+#show5{
+    color: rgb(140, 163, 58);
+}
+ul{
+    color:rgb(226, 119, 119) ;
+}
+.star{
+    color: rgb(104, 170, 175);
+}
+#wars{
+    color: rgb(105, 16, 79);
+}
+
+.list-boxes{
+    font-size: 1rem;
+    border:2px solid black;
+
+}
