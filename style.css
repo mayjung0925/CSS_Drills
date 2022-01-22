@@ -18,7 +18,7 @@ a:hover{
 } 
 span{
     color: rgb(81, 182, 182);
-    font-weight: bolder;
+    font-weight: 600;
 }
 .boxes{
     margin: 10px;
@@ -27,6 +27,7 @@ span{
     border-radius: 10px;
     width: 30em;
     display:block;
+    position:relative;
 }
 #box1{
     background-color:rgb(241, 230, 215) ;
@@ -47,9 +48,9 @@ span{
     width: 50px;
     border-radius: 50px;
     background-color: rgb(104, 170, 175);
-    position: relative;
-    top: 50px;
-    left: 30px;
+    position: absolute;
+    top: 20px;
+    left: 50px;
 }
 h1{
     color: rgb(119, 65, 29);
@@ -90,7 +91,7 @@ ul{
 }
 
 .list-boxes{
-    font-size: 1rem;
+   
     border:2px solid black;
 
 }
